@@ -8,7 +8,7 @@ My name is Eduard, and I consider myself an IT enthusiast, eager to learn a vari
 
 - :books: 2nd year student studying Computer Science at the prestigious BBU. (Language : English)
 - :floppy_disk: Decent knowledge regarding : OOP, Concurrency, Data structures and algorithms, various programming languages(C, C++, Shell, Python, Assembly x86)
-- Junior Quality Engineer @ Bitdefender
+- :office: Junior Quality Engineer @ Bitdefender
 
 ### Contact
 - :email: eduardbugnaru@gmail.com
